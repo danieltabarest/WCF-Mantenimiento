@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="618dce5c-c867-4d81-941f-3ff863507e94" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51486/svcPedidoMtto.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="svcPedidoMtto.xsd" MetadataType="Schema" ID="e893d6f7-95ed-4e1c-bb98-6b2421d32747" SourceId="1" SourceUrl="http://localhost:51486/svcPedidoMtto.svc?xsd=xsd0" />
+    <MetadataFile FileName="svcPedidoMtto1.xsd" MetadataType="Schema" ID="6afab75a-8e60-4374-ae90-1a0855bb43b7" SourceId="1" SourceUrl="http://localhost:51486/svcPedidoMtto.svc?xsd=xsd3" />
+    <MetadataFile FileName="svcPedidoMtto2.xsd" MetadataType="Schema" ID="bf496982-c447-4c85-83ee-4d9a7f781ad8" SourceId="1" SourceUrl="http://localhost:51486/svcPedidoMtto.svc?xsd=xsd2" />
+    <MetadataFile FileName="svcPedidoMtto.disco" MetadataType="Disco" ID="36751d4b-f115-4dc0-bc92-da2881946a50" SourceId="1" SourceUrl="http://localhost:51486/svcPedidoMtto.svc?disco" />
+    <MetadataFile FileName="svcPedidoMtto.wsdl" MetadataType="Wsdl" ID="290d1a6c-4534-40b9-82e9-edf2b8c0f4d0" SourceId="1" SourceUrl="http://localhost:51486/svcPedidoMtto.svc?wsdl" />
+    <MetadataFile FileName="svcPedidoMtto3.xsd" MetadataType="Schema" ID="70ef8c71-0550-4a28-b6df-bd036b6f9cff" SourceId="1" SourceUrl="http://localhost:51486/svcPedidoMtto.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
